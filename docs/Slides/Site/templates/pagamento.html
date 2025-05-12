@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PACKUP - Organização na palma de sua mão</title>
+    <link rel="stylesheet" href="../static/css/style6.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/inputmask/5.0.6/inputmask.min.js"></script>
+</head>
+<body>
+    <div class="payment-container">
+        <h2 class="title">Pagamento</h2>
+        <div class="modal">
+            <form class="form">
+                <div class="payment--options">
+                    <button name="pix" type="button" class="payment-option">
+                        <img src="../static/imagens/pix.png" alt="Pix">
+                    </button>
+                    <button name="credit-card" type="button" class="payment-option active">
+                        <img src="../static/imagens/cartao_de_credito.png" alt="Cartão de Crédito">
+                    </button>
+                </div>
+
+                <div class="separator">
+                    <div class="line"></div>
+                    <p>OU</p>
+                    <div class="line"></div>
+                </div>
+
+                <div class="credit-card-info--form">
+                    <div class="input_container">
+                        <label class="input_label">Número do Cartão</label>
+                        <input type="text" class="input_field" id="card-number" placeholder="1234 5678 9101 1121">
+                    </div>
+                    <div class="input_container split">
+                        <div>
+                            <label class="input_label">Validade</label>
+                            <input type="text" class="input_field" placeholder="MM/AA">
+                        </div>
+                        <div>
+                            <label class="input_label">CVV</label>
+                            <input type="number" class="input_field" placeholder="123">
+                        </div>
+                    </div>
+                </div>
+
+                <button type="button" class="purchase--btn">Pagar Agora</button>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        // Inicializa a máscara para o campo de número do cartão
+        var cardNumberInput = document.getElementById('card-number');
+        var im = new Inputmask("9999 9999 9999 9999");
+        im.mask(cardNumberInput);
+    </script>
+    
+</body>
+</html>

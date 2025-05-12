@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PACKUP - Organização na palma de sua mão</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="../static/css/style5.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg fixed-top">
+        <div class="container">
+            <a class="navbar-brand me-auto" href="index.html">PACKUP</a>
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header">
+                    <h5 class="offcanvas-title" id="offcanvasNavbarLabel">PACKUP</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+                <div class="offcanvas-body">
+                    <ul class="navbar-nav justify-content-center flex-grow-1 pe-3">
+                        <li class="nav-item">
+                            <a class="nav-link mx-lg-2" aria-current="page" href="index.html">Início</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link mx-lg-2" href="sobre.html">Sobre</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link mx-lg-2 active" href="#">Aplicativo</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link mx-lg-2" href="contato.html">Contato</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <section class="hero-section">
+            <div class="container d-flex align-items-center justify-content-center fs-1 text-white flex-column">
+                <h1>ADQUIRA O APLICATIVO</h1>
+                <h2>Planos abaixo</h2><br>
+            </div>
+        </section>
+
+        <!-- Seção de Planos de Contrato -->
+        <section class="plans-section">
+            <div class="container">
+                <div class="title-box">
+                    <h2>Escolha seu Plano</h2>
+                </div>
+                <br>
+                <hr class="linha">
+                <div class="row justify-content-center">
+                    <!-- Plano Administrador -->
+                    <div class="col-md-4">
+                        <div class="plan">
+                            <h3 class="plan-title">Conta Administrador</h3>
+                            <p class="plan-price">R$250,00</p>
+                            <p class="plan-monthly">+ R$50,00 mensal</p>
+                            <a href="pagamento.html" class="plan-button">Assine Agora</a>
+                        </div>
+                    </div>
+                    <!-- Plano Padrão -->
+                    <div class="col-md-4">
+                        <div class="plan">
+                            <h3 class="plan-title">Conta Padrão</h3>
+                            <p class="plan-price">R$150,00</p>
+                            <p class="plan-monthly">+ R$50,00 mensal</p>
+                            <a href="pagamento.html" class="plan-button">Assine Agora</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <hr class="linha">
+        <br>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</body>
+
+</html>
