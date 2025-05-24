@@ -6,8 +6,9 @@ Projeto (App Mobile Gestão de Estoque) "PAKCUP" - TCC de Técnico em Informáti
 ## Índice
 1. [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 2. [Objetivo do Projeto](#-objetivo-do-projeto)
-3. [MVP](#-mvp-produto-mínimo-viável)
-4. [Autores](#-autores)
+3. [Caderno](#-caderno)
+4. [MVP](#-mvp-produto-mínimo-viável)
+5. [Autores](#-autores)
 
 ## 👨🏻‍💻 Tecnologias Utilizadas
 
@@ -32,6 +33,8 @@ Trabalho de desenvolvimento mobile (celular) voltado para o âmbito de controle 
 
 # Contribuições Pessoais:
 Participei de todas as etapas do processo, desde a idealização e desenvolvimento do protótipo até o backend (programação de funcionalidades gerais, incluindo banco de dados, validações e cálculos) e frontend (interface do usuário - design em geral), até a documentação escrita do aplicativo (caderno). Minnha função, além de programador, também foi controlar as entregas e administrar a equipe.
+
+## 📖 Caderno ![Caderno](docs/Caderno/caderno_tcc.pdf)
 
 ## 💡 MVP (Produto Mínimo Viável)
 
