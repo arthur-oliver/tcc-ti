@@ -1,8 +1,7 @@
 # Projeto Mobile - PACKUP
 Projeto (App Mobile Gestão de Estoque) "PAKCUP" - TCC de Técnico em Informática.
 
-# **API 1 SEMESTRE - Crows**
-<img src="docs//imagens/logotipo.png" alt="Logotipo do projeto" style="width:100%;">
+<img src="docs//imagens/logotipo.png" alt="Logotipo do projeto" style="width:50%; margin:auto;">
 
 ## Índice
 1. [Tecnologias Utilizadas](#-tecnologias-utilizadas)
