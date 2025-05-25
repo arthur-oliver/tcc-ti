@@ -2,7 +2,7 @@
 Projeto (App Mobile Gestão de Estoque) "PAKCUP" - TCC de Técnico em Informática.
 
 <div align="center">
-  <img src="docs/imagens/logotipo.png" alt="Logotipo do projeto" width="50%">
+  <img src="docs/imagens/logotipo.png" alt="Logotipo do projeto" width="30%">
 </div>
 
 ## Índice
