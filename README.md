@@ -1,7 +1,9 @@
 # Projeto Mobile - PACKUP
 Projeto (App Mobile Gestão de Estoque) "PAKCUP" - TCC de Técnico em Informática.
 
-<img src="docs//imagens/logotipo.png" alt="Logotipo do projeto" style="width:50%; margin:auto;">
+<div align="center">
+  <img src="docs/imagens/logotipo.png" alt="Logotipo do projeto" width="50%">
+</div>
 
 ## Índice
 1. [Tecnologias Utilizadas](#-tecnologias-utilizadas)
@@ -25,7 +27,6 @@ Projeto (App Mobile Gestão de Estoque) "PAKCUP" - TCC de Técnico em Informáti
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width='40' height='40'/>
   <img width="40" height="40" src="https://img.icons8.com/8E8E8E/ios-filled/50/github.png" alt="github"/>
 </div>
- Google Drive -  Firebase (Cloud Firestore) -  Microsoft Offfice (Word e Power Point) -  VS Code -  HTML -  CSS -  Flutter -  Node -  Android Studio - Dart.
 
 ## 🎯 Objetivo do Projeto
 # Sobre:
@@ -34,7 +35,8 @@ Trabalho de desenvolvimento mobile (celular) voltado para o âmbito de controle 
 # Contribuições Pessoais:
 Participei de todas as etapas do processo, desde a idealização e desenvolvimento do protótipo até o backend (programação de funcionalidades gerais, incluindo banco de dados, validações e cálculos) e frontend (interface do usuário - design em geral), até a documentação escrita do aplicativo (caderno). Minnha função, além de programador, também foi controlar as entregas e administrar a equipe.
 
-## 📖 [Caderno](docs/Caderno/caderno_tcc.pdf)
+## 📖 Caderno
+[Clique aqui para acessar o Caderno do Projeto (PDF)](docs/Caderno/caderno_tcc.pdf)
 
 ## 💡 MVP (Produto Mínimo Viável)
 
