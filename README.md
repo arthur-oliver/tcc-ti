@@ -47,4 +47,4 @@ Participei de todas as etapas do processo, desde a idealização e desenvolvimen
 | Nome      | Função          | Redes Sociais |
 |-----------|-----------------|---------------|
 
-| Arthur Óliver Rossi Alves | Scrum Master | <a href="https://github.com/arthur-oliver"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://www.linkedin.com/in/arthur-%C3%B3liver-728123350/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a> |
+| Arthur Óliver Rossi Alves | Desenvolvedor | <a href="https://github.com/arthur-oliver"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://www.linkedin.com/in/arthur-%C3%B3liver-728123350/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a> |
