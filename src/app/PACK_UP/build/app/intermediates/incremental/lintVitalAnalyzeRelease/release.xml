@@ -1,0 +1,40 @@
+<variant
+    name="release"
+    package="com.example.pack_up"
+    minSdkVersion="23"
+    targetSdkVersion="34"
+    shrinking="true"
+    mergedManifest="C:\packup\PACK_UP\build\app\intermediates\merged_manifest\release\AndroidManifest.xml"
+    proguardFiles="C:\packup\PACK_UP\build\app\intermediates\default_proguard_files\global\proguard-android.txt-7.3.0;C:\src\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro;proguard-rules.pro"
+    partialResultsDir="C:\packup\PACK_UP\build\app\intermediates\lint_vital_partial_results\release\out"
+    desugaredMethodsFiles="C:\Users\user\.gradle\caches\transforms-3\f1db0c8b5893fddc692e3e66e9d98d95\transformed\D8BackportedDesugaredMethods.txt">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifest="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\main\kotlin"
+        resDirectories="src\main\res"
+        assetsDirectories="src\main\assets"/>
+    <sourceProvider
+        manifest="src\release\AndroidManifest.xml"
+        javaDirectories="src\release\java;src\release\kotlin"
+        resDirectories="src\release\res"
+        assetsDirectories="src\release\assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <manifestPlaceholders>
+    <placeholder
+        name="applicationName"
+        value="android.app.Application" />
+  </manifestPlaceholders>
+  <mainArtifact
+      classOutputs="C:\packup\PACK_UP\build\app\intermediates\javac\release\classes;C:\packup\PACK_UP\build\app\tmp\kotlin-classes\release;C:\packup\PACK_UP\build\app\kotlinToolingMetadata;C:\packup\PACK_UP\build\app\intermediates\compile_and_runtime_not_namespaced_r_class_jar\release\R.jar"
+      applicationId="com.example.pack_up"
+      generatedSourceFolders="C:\packup\PACK_UP\build\app\generated\ap_generated_sources\release\out;C:\packup\PACK_UP\build\app\generated\aidl_source_output_dir\release\out;C:\packup\PACK_UP\build\app\generated\source\buildConfig\release;C:\packup\PACK_UP\build\app\generated\renderscript_source_output_dir\release\out"
+      generatedResourceFolders="C:\packup\PACK_UP\build\app\generated\res\google-services\release;C:\packup\PACK_UP\build\app\generated\res\rs\release;C:\packup\PACK_UP\build\app\generated\res\resValues\release">
+  </mainArtifact>
+</variant>
