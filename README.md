@@ -33,7 +33,7 @@ Projeto (App Mobile Gestão de Estoque) "PAKCUP" - TCC de Técnico em Informáti
 Trabalho de desenvolvimento mobile (celular) voltado para o âmbito de controle de estoque, que visa auxiliar no processo de gestão de empresas independente da área de atuação. O projeto foi desenvolvido para o TCC do Técnico em Informática e com o objetivo de aplicar conhecimentos gerais do curso de forma integrada.
 
 # Contribuições Pessoais:
-Participei de todas as etapas do processo, desde a idealização e desenvolvimento do protótipo até o backend (programação de funcionalidades gerais, incluindo banco de dados, validações e cálculos) e frontend (interface do usuário - design em geral), até a documentação escrita do aplicativo (caderno). Minnha função, além de programador, também foi controlar as entregas e administrar a equipe.
+Participei de todas as etapas do processo, desde a idealização e desenvolvimento do protótipo até o backend (programação de funcionalidades gerais, incluindo banco de dados, validações e cálculos) e frontend (interface do usuário - design em geral), até a documentação escrita do aplicativo (caderno). Minha função, além de programador, também foi controlar as entregas e administrar a equipe.
 
 ## 📖 Caderno
 [Clique aqui para acessar o Caderno do Projeto (PDF)](docs/Caderno/caderno_tcc.pdf)
